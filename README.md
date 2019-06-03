@@ -85,7 +85,7 @@ ReactDOM.render(
 		{' '}
 		/* code change */
 		<App />
-	</Provider> /* code change */,
+	</Provider>,
 	document.getElementById('root')
 );
 ```
